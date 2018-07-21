@@ -1,4 +1,4 @@
 # hello-world
-Just a plain simple Hello World
+Hi there! I'm Kartikay, and this is my hello world. Keeping it plain and simple.
 
-An edit to this plain simple Hello World readme, that doesn't add much by itself. Oh well.
+Cheers!
